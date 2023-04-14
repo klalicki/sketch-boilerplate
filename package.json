@@ -9,6 +9,8 @@
   "author": "kristoff",
   "license": "ISC",
   "devDependencies": {
+    "sass": "^1.62.0",
+    "sass-loader": "^13.2.2",
     "webpack": "^5.79.0",
     "webpack-cli": "^5.0.1"
   }
